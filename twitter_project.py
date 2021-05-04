@@ -22,10 +22,10 @@ warnings.filterwarnings("ignore")
 sns.set(font_scale=1.5)
 sns.set_style("whitegrid")
 
-consumer_key = 'DO2rNuWUQDudVbdeRLpt7Nxjv'
-consumer_secret = 'gaDR56dqrljLmhwVrClI26YM2C0tAzefpBVfJdBHjkLZ8xHJdE'
-access_token = '796042456735346688-vQV7TNphyPPwxclw7FVoC055tfQGSax'
-access_secret = 'e13O1QZMLyfQnmHECyDMCZnvXM5ndhPVFPUSJtNXFk2ar'
+consumer_key = 'Twitter Access Keys'
+consumer_secret = 'Twitter Access Keys'
+access_token = 'Twitter Access Keys'
+access_secret = 'Twitter Access Keys'
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
